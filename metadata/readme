@@ -1,0 +1,4 @@
+# read and put here the metadata
+# extract all metadata files
+# MUH, MHV, MHW are the channels
+rdseed -f dataless.XB.ELYSE.seed -R
